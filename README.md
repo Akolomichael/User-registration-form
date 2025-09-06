@@ -1,5 +1,5 @@
-# Project title
-# User Registration Form
+## Project title
+## User Registration Form
 
 ##  Project Description
 This project is part of the IYF Weekend Academy assignment.  
@@ -13,11 +13,11 @@ The form collects the following details:
 - Feedback & Additional Information (description, suggestions, resume upload)
 
 ## File Structure
-user registration form
-index.html- main html registration form
-README.md- Project documentation
+User-registration-form/
+│── index.html # Main HTML registration form
+│── README.md # Project documentation
 
-# implementation notes
+## implementation notes
 - Built with pure HTML5 (no CSS/JavaScript included).
 Uses semantic tags such as <fieldset>, <legend>, <label>, <input>.
   *Accessibility features included*
@@ -37,6 +37,7 @@ Uses semantic tags such as <fieldset>, <legend>, <label>, <input>.
 - Semantic HTML5 implementation quality
 - form functionality and proper structure repository organization and implementaion 
 -  README clarity and completeness 
--  code quality and adherence to required practises
+-  code quality and adherence to required practices
+
 
 Author: Michael Akolo
